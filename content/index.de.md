@@ -6,6 +6,9 @@ lang: de
 last_updated: 2023-11-26
 translators:
 - name: "Alexej Rotar"
+contributors:
+  - name: "Jens Oliver Meiert"
+    link: "https://meiert.com/"
 github:
     repository: w3c/wai-intro-accessibility
     branch: gh-pages
