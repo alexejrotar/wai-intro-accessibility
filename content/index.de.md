@@ -151,7 +151,7 @@ Die W3C-Initiative für barrierefreies Web – die Web Accessibility Initiative 
 
 -   Mehr zum Zusammenspiel dieser Aspekte gibt es unter [[Wesentliche Komponenten des barrierefreien Webs]](/fundamentals/components/).
 -   Die Richtlinien für barrierefreie Webinhalte (WCAG), die Richtlinien für barrierefreie Erstellungswerkzeuge (ATAG), den Standard für barrierefreie Internetanwendungen (ARIA), und weitere wichtige Ressourcen werden eingeführt unter [[Übersicht über die Standards für Barrierefreiheit des W3C]](/standards-guidelines/).
--   Mehr darüber wie W3C-WAI durch die internationale Beteiligung vieler Interessensvertreter:innen Material entwickelt und wie Sie beitragen können, finden Sie in [[Über WAI]](/about/) und unter [[Sich bei WAI beteiligen]](/about/participating/).
+-   Mehr darüber wie W3C WAI durch die internationale Beteiligung vieler Interessensvertreter:innen Material entwickelt und wie Sie beitragen können, finden Sie in [[Über WAI]](/about/) und unter [[Sich bei WAI beteiligen]](/about/participating/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -243,6 +243,6 @@ Es ist einfach und relativ günstig, für Webseiten Transkriptionen bereitzustel
 
 ## Für weitere Informationen {#more-info}
 
-Die W3C-WAI bietet eine breite Palette an Ressourcen rund um [Standards](/standards-guidelines/), [Bildung](/teach-advocate/), [Testing/Auswertung](/test-evaluate/), [Projektmanagement und Richtlinien](/planning/) für ein barrierefreies Web. Wir empfehlen Ihnen, diese Webseite näher zu erkunden und sich mit der Liste von [WAI-Ressourcen](/resources/) vertraut zu machen.
+Die W3C WAI bietet eine breite Palette an Ressourcen rund um [Standards](/standards-guidelines/), [Bildung](/teach-advocate/), [Testing/Auswertung](/test-evaluate/), [Projektmanagement und Richtlinien](/planning/) für ein barrierefreies Web. Wir empfehlen Ihnen, diese Webseite näher zu erkunden und sich mit der Liste von [WAI-Ressourcen](/resources/) vertraut zu machen.
 
 **[[Grundlagen der digitalen Barrierefreiheit – kostenloser Onlinekurs]](/courses/foundations-course/)** bietet Ihnen die nötigen Grundlagen, um Ihre digitale Technologie barrierefrei zu machen.
